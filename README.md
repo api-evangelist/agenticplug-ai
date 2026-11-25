@@ -80,11 +80,17 @@ Everything profiled for agenticplug.ai is published on APIs.io rather than in th
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [agenticplug-ai-mcp.yml](https://apis.io/servers/agenticplug-ai/agenticplug-ai-mcp-yml/)
+
 #### Agentic access (1)
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Agenticplug Ai Agentic Access](https://apis.io/agentic-access/agenticplug-ai/agenticplug-ai-agentic-access/)
+- [agenticplug.ai Agentic Access](https://apis.io/agentic-access/agenticplug-ai/agenticplug-ai-agentic-access/)
 
 #### Governance rules (1)
 
@@ -96,26 +102,26 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agenticplug Ai Authentication](https://apis.io/security/agenticplug-ai/agenticplug-ai-authentication/)
-- [Agenticplug Ai Domain Security](https://apis.io/security/agenticplug-ai/agenticplug-ai-domain-security/)
+- [agenticplug.ai Authentication](https://apis.io/security/agenticplug-ai/agenticplug-ai-authentication/)
+- [agenticplug.ai Domain Security](https://apis.io/security/agenticplug-ai/agenticplug-ai-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Agenticplug Ai Scopes](https://apis.io/scopes/agenticplug-ai/agenticplug-ai-scopes/)
+- [agenticplug.ai Scopes](https://apis.io/scopes/agenticplug-ai/agenticplug-ai-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Agenticplug Ai Plans Pricing](https://apis.io/plans/agenticplug-ai/agenticplug-ai-plans-pricing/)
+- [agenticplug.ai Plans Pricing](https://apis.io/plans/agenticplug-ai/agenticplug-ai-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Agenticplug Ai Rate Limits](https://apis.io/rate-limits/agenticplug-ai/agenticplug-ai-rate-limits/)
+- [agenticplug.ai Rate Limits](https://apis.io/rate-limits/agenticplug-ai/agenticplug-ai-rate-limits/)
 
 ## Where to find this API
 
@@ -130,23 +136,23 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 32.7** — thin · rubric 0.26.0 · scored 2026-11-01
+**Kin Score 31.2** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 65.0 |
+| Discoverability | 81.7 |
 | Contract quality | 0.0 |
-| Contract governance | 65.5 |
+| Contract governance | 31.8 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 37.4 |
-| Access clarity | 40.0 |
+| Access clarity | 48.9 |
 
-**Agent readiness 45.6** — agent-ready (gated down from agent-native)
+**Agent readiness 39.7** — agent-ready (gated down from agent-native)
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
 | MCP Server | documented (partial credit) |
 | Auth Clarity | served (partial credit) |
@@ -157,7 +163,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Event Surface Described | — |
 | Agent Skills | unknown |
 | Well Known Catalog | yes |
-| Consent Identity | — |
+| Consent Identity | signal |
 | Agent Card | conformant |
 | Dry Run Mode | — |
 | Delegated Identity | served (partial credit) |
@@ -167,8 +173,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | yes |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 34.3** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 28.4** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agenticplug-ai/](https://apis.io/providers/agenticplug-ai/).
 
